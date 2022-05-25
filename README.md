@@ -26,13 +26,9 @@
 
 ## HTML
 
----
-
 ### [Mozilla.org](https://developer.mozilla.org/en-US/)
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTMLElement.dataset](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset)
-
----
 
 ### [W3schools.com](https://www.w3schools.com)
 - [HTML Tutorial](https://www.w3schools.com/html/default.asp)
@@ -46,7 +42,7 @@
 - [Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 ### [andrejgajdos.com](https://andrejgajdos.com)
-- [How to Create a Custom Select Dropdown using HTML, CSS and JavaScript]()
+- [How to Create a Custom Select Dropdown using HTML, CSS and JavaScript](https://andrejgajdos.com/custom-select-dropdown/)
 
 ---
 
