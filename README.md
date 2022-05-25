@@ -48,16 +48,12 @@
 
 ## CSS
 
----
-
 ### [Css-tricks.com](https://css-tricks.com/)
 - [CSS-TRICKS Almanac](https://css-tricks.com/almanac/)
 - [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 - [A Dynamically-Sized Sticky Sidebar with HTML and CSS ](https://css-tricks.com/a-dynamically-sized-sticky-sidebar-with-html-and-css/)
 - [How to Section Your HTML ](https://css-tricks.com/how-to-section-your-html/)
 - [filter](https://css-tricks.com/almanac/properties/f/filter/)
-
----
 
 ### [Tympanus.net](https://tympanus.net)
 - [CSS Reference](https://tympanus.net/codrops/css_reference/)
@@ -69,13 +65,9 @@
 - [Simple hover effects for circular icons](https://tympanus.net/Development/IconHoverEffects/)
 - [Subtle and modern effects for links or menu items](https://tympanus.net/Development/CreativeLinkEffects/)
 
----
-
 ### [Google Fonts](https://developers.google.com/fonts)
 - [Open Source Fonts](https://fonts.google.com/)
 - [Get Started](https://developers.google.com/fonts/docs/getting_started)
-
----
 
 ### [W3schools.com](https://www.w3schools.com)
 - [CSS Tutorial](https://www.w3schools.com/css/default.asp)
@@ -94,22 +86,14 @@
 - [Sticky Navbar](https://www.w3schools.com/howto/howto_js_navbar_sticky.asp)
 - [Text Alignment and Text Direction](https://www.w3schools.com/css/css_text_align.asp)
 
----
-
 ### [Tutorials Tonight](https://www.tutorialstonight.com/)
 - [Toggle Switch With Text](https://www.tutorialstonight.com/css-toggle-switch-with-text.php)
-
----
 
 ### [Metring.](https://ricardometring.com/)
 - [Infinite Animation in CSS - How it Works + Loop Example](https://ricardometring.com/infinite-animation-in-css)
 
----
-
 ### [meyerweb.com](https://meyerweb.com/)
 - [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
-
----
 
 ### [html-css-js.com](https://html-css-js.com)
 - [Font CSS Style Generator](https://html-css-js.com/css/generator/font/)
@@ -119,19 +103,14 @@
 
 ## JavaScript
 
----
-
 ### [W3schools.com](https://www.w3schools.com)
 - [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
-
----
 
 ### [Mozilla.org](https://developer.mozilla.org)
 - [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 - [Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 - [Using files from web applications](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
 
----
 ### Misc
 - [How to Send GET and POST Requests with JavaScript Fetch API](https://medium.com/meta-box/how-to-send-get-and-post-requests-with-javascript-fetch-api-d0685b7ee6ed)
 - [How to POST *Data* with the Fetch API](https://chipcullen.com/how-to-post-data-with-fetch-api/)
@@ -141,8 +120,6 @@
 ---
 
 ## Java
-
----
 
 ### [Oracle](https://docs.oracle.com)
 - [Java Platform, Standard Edition (Java SE) 8](https://docs.oracle.com/javase/8/)
@@ -158,8 +135,6 @@
 - [Java Platform, Standard Edition Documentation](https://docs.oracle.com/en/java/javase/)
 - [Reading, Writing, and Creating Files](https://docs.oracle.com/javase/tutorial/essential/io/file.html)
 
----
-
 ### [Mkyong.com](https://mkyong.com/)
 - [Java 8 Tutorials](https://mkyong.com/tutorials/java-8-tutorials/)
 - [Java I/O Tutorial](https://mkyong.com/tutorials/java-io-tutorials/)
@@ -170,8 +145,6 @@
 - [Java – Read a file from resources folder](https://mkyong.com/java/java-read-a-file-from-resources-folder/)
 - [Java 8 – Find duplicate elements in a Stream](https://mkyong.com/java8/java-8-find-duplicate-elements-in-a-stream/)
 - [Java Guides](https://mkyong.com/tag/java/)
-
----
 
 ### [Baeldung.com](https://www.baeldung.com/)
 - [Initializing HashSet at the Time of Construction](https://www.baeldung.com/java-initialize-hashset)
@@ -187,14 +160,10 @@
 - [Guide to hashCode() in Java](https://www.baeldung.com/java-hashcode)
 - [Iterating over Enum Values in Java](https://www.baeldung.com/java-enum-iteration)
 
----
-
 ### [howtodoinjava.com](https://howtodoinjava.com)
 - [Callable Future Example](https://howtodoinjava.com/java/multi-threading/callable-future-example/)
 - [Java Thread Pool – ThreadPoolExecutor Example](https://howtodoinjava.com/java/multi-threading/java-thread-pool-executor-example/)
 - [Set Classpath from Command Line](https://howtodoinjava.com/java-examples/set-classpath-command-line/)
-
----
 
 ### Misc
 - [JogAmp](https://jogamp.org/)
@@ -211,13 +180,9 @@
 - [How to generate Javadoc from command line](https://rotadev.com/how-to-generate-javadoc-from-command-line-dev/)
 - [How to indicate for javac where the compiled classes should go?](https://stackoverflow.com/questions/2487001/how-to-indicate-for-javac-where-the-compiled-classes-should-go)
 
----
-
 ### [Oracle](www.oracle.com)
 - [How to Write Doc Comments for the Javadoc Tool](https://www.oracle.com/ar/technical-resources/articles/java/javadoc-tool.html)
 - [javadoc - The Java API Documentation Generator](https://docs.oracle.com/javase/7/docs/technotes/tools/windows/javadoc.html)
-
----
 
 ### [Baeldung.com](https://www.baeldung.com)
 - [Introduction to Javadoc](https://www.baeldung.com/javadoc)
@@ -225,8 +190,6 @@
 ---
 
 ## JUnit 5
-
----
 
 ### [Junit.org](https://junit.org)
 
@@ -242,15 +205,12 @@
 - [JUnit 5 - Annotation Interface Order](https://junit.org/junit5/docs/current/api/org.junit.jupiter.api/org/junit/jupiter/api/Order.html)
 - [JUnit 5 - Annotation Interface Tag](https://junit.org/junit5/docs/current/api/org.junit.jupiter.api/org/junit/jupiter/api/Tag.html)
 
----
-
 ### [Baeldung.com](https://www.baeldung.com)
 - [A Guide to JUnit 5](https://www.baeldung.com/junit-5)
 - [Using JUnit 5 with Gradle](https://www.baeldung.com/junit-5-gradle)
 - [Best Practices For Unit Testing In Java](https://www.baeldung.com/java-unit-testing-best-practices)
 - [Testing in Spring Boot](https://www.baeldung.com/spring-boot-testing)
 - [Guide to Test a Spring Boot App](https://howtodoinjava.com/spring-boot2/testing/spring-boot-2-junit-5/)
----
 
 ### [Mkyong.com](https://mkyong.com)
 - [JUnit 5 Run tests from console](https://mkyong.com/junit5/junit-5-consolelauncher-examples/)
@@ -262,13 +222,9 @@
 - [JUnit 5 Timeouts](https://mkyong.com/junit5/junit-5-timeouts-examples/)
 - [JUnit 5 + Spring Boot](https://mkyong.com/spring-boot/spring-boot-junit-5-mockito/)
 
----
-
 ### [Bezkoder.com](https://www.bezkoder.com)
 - [Spring Boot, JPA/Hibernate, PostgreSQL example with Maven](https://www.bezkoder.com/spring-boot-postgresql-example/)
 - [@DataJpaTest example for Spring Data Repository Unit Test](https://www.bezkoder.com/spring-boot-unit-test-jpa-repo-datajpatest/)
-
----
 
 ### Misc
 - [JUnit 5 Tutorial: Running Unit Tests With Gradle](https://www.petrikainulainen.net/programming/testing/junit-5-tutorial-running-unit-tests-with-gradle/)
@@ -279,12 +235,8 @@
 
 ## SQL
 
----
-
 ### [w3schools.com](https://www.w3schools.com)
 - [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
-
----
 
 ### PostgreSQL
 - [How To Install and Use PostgreSQL on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-22-04)
@@ -298,8 +250,6 @@
 - [https://linuxhint.com/best_gui_clients_postgresql_ubuntu/](https://linuxhint.com/best_gui_clients_postgresql_ubuntu/)
 - [How to remove Postgres from my installation?](https://askubuntu.com/questions/32730/how-to-remove-postgres-from-my-installation)
 
----
-
 ### SQLite
 
 - [How to integrate SQLite Database with Spring Boot?](https://fullstackdeveloper.guru/2020/05/01/how-to-integrate-sqlite-database-with-spring-boot/)
@@ -311,8 +261,6 @@
 - [SQL As Understood By SQLite](https://www.sqlite.org/lang.html)
 - [PRAGMA Statements](https://www.sqlite.org/pragma.html)
 
----
-
 ### Misc
 
 - [Creating multiple tables and table relationships](https://launchschool.com/books/sql/read/table_relationships)
@@ -321,8 +269,6 @@
 ---
 
 ## Git
-
----
 
 ### [w3schools.com](https://www.w3schools.com)
 - [Git Tutorial](https://www.w3schools.com/git/default.asp)
@@ -333,8 +279,6 @@
 - [Git Commit](https://www.w3schools.com/git/git_commit.asp?remote=github)
 - [GitHub Tutorial](https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github)
 
----
-
 ### Misc
 
 - [How to Change a Git Commit Message](https://linuxize.com/post/change-git-commit-message/)
@@ -343,8 +287,6 @@
 ---
 
 ## Gradle
-
----
 
 ### [Baeldung.com](https://www.baeldung.com)
 - [Introduction to Gradle](https://www.baeldung.com/gradle)
@@ -356,8 +298,6 @@
 - [Passing Command Line Arguments in Gradle](https://www.baeldung.com/gradle-command-line-arguments)
 - [Creating a Fat Jar in Gradle](https://www.baeldung.com/gradle-fat-jar)
 
----
-
 ### Misc
 
 - [Building Java Applications Sample](https://docs.gradle.org/current/samples/sample_building_java_applications.html)
@@ -368,14 +308,11 @@
 
 ## Spring
 
----
-
 ### [Spring.io](https://spring.io)
 - [Spring Website](https://spring.io/)
 - [Spring Guides](https://spring.io/guides)
 - [Spring initializr](https://start.spring.io/)
 - [Metrics and Tracing with Spring](https://spring.io/guides/tutorials/metrics-and-tracing/)
----
 
 ### [Baeldung.com](https://www.baeldung.com)
 - [Template Engines for Spring](https://www.baeldung.com/spring-template-engines)
@@ -387,16 +324,12 @@
 - [Create a Fat Jar App with Spring Boot](https://www.baeldung.com/deployable-fat-jar-spring-boot)
 - [The Guide to RestTemplate](https://www.baeldung.com/rest-template)
 
----
-
 ### Misc
 - [Spring – @GetMapping and @PostMapping](https://howtodoinjava.com/spring5/webmvc/controller-getmapping-postmapping/)
 
 ---
 
 ## Spring Boot
-
----
 
 ### [Baeldung.com](http://www.baeldung.com)
 - [Using application.yml vs application.properties in Spring Boot](https://www.baeldung.com/spring-boot-yaml-vs-properties)
@@ -407,8 +340,6 @@
 - [Spring Security Form Login](https://www.baeldung.com/spring-security-login)
 - [Spring Security Authentication Tutorial](https://www.baeldung.com/spring-security-authentication-and-registration)
 
-----
-
 ### Misc
 - [Mastering Spring boot Actuator](https://dimitr.im/mastering-spring-boot-actuator)
 - [Spring MVC y Spring Boot](https://www.arquitecturajava.com/spring-mvc-configuracion/)
@@ -417,15 +348,11 @@
 
 ## Spring Cloud
 
----
-
 ### [Spring.io](https://spring.io)
 - [Microservices](https://spring.io/microservices)
 - [Spring Cloud Website](https://spring.io/projects/spring-cloud)
 - [Hiding Services & Runtime Discovery with Spring Cloud Gateway](https://spring.io/blog/2019/07/01/hiding-services-runtime-discovery-with-spring-cloud-gateway)
 - [Spring Tips: Spring Cloud Loadbalancer ](https://spring.io/blog/2020/03/25/spring-tips-spring-cloud-loadbalancer)
-
----
 
 ### [Baeldung.com](https://www.baeldung.com)
 - [Spring Cloud Tutorials](https://www.baeldung.com/spring-cloud-series)
@@ -439,8 +366,6 @@
 - [Introduction to Spring Cloud OpenFeign](https://www.baeldung.com/spring-cloud-openfeign)
 - [Introduction to Spring Cloud Rest Client with Netflix Ribbon](https://www.baeldung.com/spring-cloud-rest-client-with-netflix-ribbon)
 
----
-
 ### Misc
 - [Spring Cloud - Load Balancer](https://www.tutorialspoint.com/spring_cloud/spring_cloud_load_balancer.htm)
 - [Load Balancing Spring Cloud Applications using Eureka and Spring Cloud Gateway](https://progen.medium.com/load-balancing-spring-cloud-applications-using-eureka-and-spring-cloud-gateway-43d0bcf57cc3)
@@ -451,8 +376,6 @@
 ---
 
 ## Thymeleaf
-
----
 
 ### [Thymeleaf.org](https://www.thymeleaf.org)
 - [Thymeleaf Website](https://www.thymeleaf.org/index.html)
@@ -465,8 +388,6 @@
 - [Thymeleaf Page Layouts (Fragments)](https://www.thymeleaf.org/doc/articles/layouts.html)
 - [Spring MVC and Thymeleaf: how to access data from templates](https://www.thymeleaf.org/doc/articles/springmvcaccessdata.html)
 - [Standard URL Syntax](https://www.thymeleaf.org/doc/articles/standardurlsyntax.html)
-
----
 
 ### [Baeldung.com](https://www.baeldung.com)
 - [Working with Fragments in Thymeleaf](https://www.baeldung.com/spring-thymeleaf-fragments)
@@ -492,21 +413,15 @@
 
 ## Linux
 
----
-
 ### Firewall
 - [Uncomplicated Firewall](https://ubuntu.com/server/docs/security-firewall)
 - [How to setup a UFW firewall on Ubuntu 18.04 LTS server](https://www.cyberciti.biz/faq/how-to-setup-a-ufw-firewall-on-ubuntu-18-04-lts-server/)
-
----
 
 ### Curl
 - [curl command in Linux with Examples](https://www.geeksforgeeks.org/curl-command-in-linux-with-examples/)
 - [How do I set a timeout for Curl? ](https://reqbin.com/req/c-70cqyayb/curl-timeout)
 - [How to execute multiple curl requests in parallel](https://linuxhint.com/execute-multiple-curl-requests-parallel/)
 - [How to make a POST request with cURL](https://linuxize.com/post/curl-post-request/)
-
----
 
 ### SSH
 - [¿Cómo funciona el SSH?](https://www.hostinger.com.ar/tutoriales/que-es-ssh)
@@ -517,12 +432,8 @@
 - [How to copy files from one machine to another using ssh](https://unix.stackexchange.com/questions/106480/how-to-copy-files-from-one-machine-to-another-using-ssh)
 - [Copiar archivos a través de SSH con SCP](https://geekytheory.com/copiar-archivos-a-traves-de-ssh-con-scp/)
 
----
-
 ### FTP
 - [FTP Server](https://ubuntu.com/server/docs/service-ftp)
-
----
 
 ### Systemd
 - [Auto-restart a crashed service in systemd ](https://ma.ttias.be/auto-restart-crashed-service-systemd/)
@@ -533,7 +444,6 @@
 - [Run a Java Application as a Service on Linux](https://www.baeldung.com/linux/run-java-application-as-service)
 - [How to Enable or Disable Services in Ubuntu Systemd/Upstart](https://linoxide.com/enable-disable-services-ubuntu-systemd-upstart/)
 
-----
 
 ### Misc
 - [Crear usuarios en Linux desde la línea de comandos](https://www.zeppelinux.es/crear-usuarios-en-linux-desde-la-linea-de-comandos/)
@@ -557,15 +467,11 @@
 
 ## Heroku
 
----
-
 #### [Assert Code](https://www.youtube.com/channel/UCyPHRKWL0rWDElvKN7P3b1A)
 
 - [spring boot gradle deploy heroku](https://www.youtube.com/watch?v=d86xG-UKWB0&list=PL5M1XZ0e-5brqGyHUO7a1P9NMwblrqhuv&index=2)
 - [spring boot maven deploy heroku](https://www.youtube.com/watch?v=0zb8LC3R0GA&list=PL5M1XZ0e-5brqGyHUO7a1P9NMwblrqhuv&index=3)
 - [spring boot gradle postgress heroku](https://www.youtube.com/watch?v=ofCiyoUwuIM&list=PL5M1XZ0e-5brqGyHUO7a1P9NMwblrqhuv&index=4)
-
----
 
 ### Misc
 - [The Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli)
@@ -580,7 +486,6 @@
 
 ## Google AdSense
 
-
 ### [Google Developers](https://developers.google.com)
 - [Webmaster guidelines](https://developers.google.com/search/docs/advanced/guidelines/webmaster-guidelines?hl=en)
 - [Introduction to robots.txt](https://developers.google.com/search/docs/advanced/robots/intro)
@@ -590,8 +495,6 @@
 - [Supported ad sizes](https://support.google.com/admanager/answer/1100453?hl=en)
 - [About language targeting](https://support.google.com/google-ads/answer/1722078?hl=en)
 - [How to modify your responsive ad code](https://support.google.com/adsense/answer/9183363)
-
----
 
 ### Misc
 - [Top Performing Ad Sizes and Placements in Google Ad Manager](https://oko.uk/blog/top-performing-ad-sizes)
