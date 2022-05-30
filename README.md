@@ -211,6 +211,7 @@
 - [Best Practices For Unit Testing In Java](https://www.baeldung.com/java-unit-testing-best-practices)
 - [Testing in Spring Boot](https://www.baeldung.com/spring-boot-testing)
 - [Guide to Test a Spring Boot App](https://howtodoinjava.com/spring-boot2/testing/spring-boot-2-junit-5/)
+- [@BeforeAll and @AfterAll in Non-Static Methods](https://www.baeldung.com/java-beforeall-afterall-non-static)
 
 ### [Mkyong.com](https://mkyong.com)
 - [JUnit 5 Run tests from console](https://mkyong.com/junit5/junit-5-consolelauncher-examples/)
