@@ -40,6 +40,7 @@
 - [How To](https://www.w3schools.com/howto/)
 - [Language Code Reference](https://www.w3schools.com/tags/ref_language_codes.asp)
 - [Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [How TO - Add a Favicon in HTML](https://www.w3schools.com/howto/howto_html_favicon.asp)
 
 ### [andrejgajdos.com](https://andrejgajdos.com)
 - [How to Create a Custom Select Dropdown using HTML, CSS and JavaScript](https://andrejgajdos.com/custom-select-dropdown/)
