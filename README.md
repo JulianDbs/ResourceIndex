@@ -349,6 +349,7 @@
 - [Spring Boot Security Auto-Configuration](https://www.baeldung.com/spring-boot-security-autoconfiguration)
 - [Spring Security Form Login](https://www.baeldung.com/spring-security-login)
 - [Spring Security Authentication Tutorial](https://www.baeldung.com/spring-security-authentication-and-registration)
+- [Spring Boot: Customize Whitelabel Error Page](https://www.baeldung.com/spring-boot-custom-error-page)
 
 ### Misc
 - [Mastering Spring boot Actuator](https://dimitr.im/mastering-spring-boot-actuator)
