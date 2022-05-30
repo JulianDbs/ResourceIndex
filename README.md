@@ -418,6 +418,7 @@
 - [Working with Select and Option in Thymeleaf](https://www.baeldung.com/thymeleaf-select-option)
 - [Working with Boolean in Thymeleaf](https://www.baeldung.com/thymeleaf-boolean)
 - [CSRF Protection with Spring MVC and Thymeleaf](https://www.baeldung.com/csrf-thymeleaf-with-spring-security)
+- [Add CSS and JS to Thymeleaf](https://www.baeldung.com/spring-thymeleaf-css-js)
 
 ---
 
