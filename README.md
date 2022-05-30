@@ -323,6 +323,14 @@
 - [Spring YAML Configuration](https://www.baeldung.com/spring-yaml)
 - [Create a Fat Jar App with Spring Boot](https://www.baeldung.com/deployable-fat-jar-spring-boot)
 - [The Guide to RestTemplate](https://www.baeldung.com/rest-template)
+- [A Quick Guide to Spring @Value](https://www.baeldung.com/spring-value-annotation)
+- [Using Spring @Value With Defaults](https://www.baeldung.com/spring-value-defaults)
+- [Serve Static Resources with Spring](https://www.baeldung.com/spring-mvc-static-resources)
+- [Download an Image or a File with Spring MVC](https://www.baeldung.com/spring-controller-return-image-file)
+- [Http Message Converters with the Spring Framework](https://www.baeldung.com/spring-httpmessageconverter-rest)
+- [Returning Image/Media Data with Spring MVC](https://www.baeldung.com/spring-mvc-image-media-data)
+- [Spring MVC Tutorial](https://www.baeldung.com/spring-mvc-tutorial)
+- [Custom Error Pages with Spring MVC](https://www.baeldung.com/custom-error-page-spring-mvc)
 
 ### Misc
 - [Spring – @GetMapping and @PostMapping](https://howtodoinjava.com/spring5/webmvc/controller-getmapping-postmapping/)
